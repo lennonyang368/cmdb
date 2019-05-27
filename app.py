@@ -1,3 +1,3 @@
 
 if _name_ == '_main_':
-    print('welcome to mycmdb')
+    print('Welcome to www.magedu.com')
